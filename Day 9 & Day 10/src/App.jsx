@@ -1,11 +1,10 @@
 import React from 'react'
-import Task from './Task';
+import Video from './Video';
 
 const App = () => {
   return (
     <div>
-
-        <Task/>
+      <Video/>
     </div>
   )
 }
